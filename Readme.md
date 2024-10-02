@@ -16,11 +16,10 @@ The Application contains two tabs:
  - **first tab**: displays only the device screen
  - **second tab**: 30~120fps, depending on the device
 
-
 ## Get the app
 [Windows]
 The independent packacked software for this app is found here: 
-https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_stable.py
+https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_test.exe
 
 
 ## Prerequisites
