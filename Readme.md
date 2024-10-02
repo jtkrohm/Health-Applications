@@ -13,8 +13,8 @@ to an integrated document database using mongoDB
 
 The Application contains two tabs:
 
- - **first tab**: displays only the device screen
- - **second tab**: 30~120fps, depending on the device
+ - **first tab**: displays a digital form for the collection of weight and height data for the calculation of an individual's bmi
+ - **second tab**: displays a digital form for the collection of an individual's systolic and diastolic blood pressure
 
 ## Get the app
 [Windows] Download the raw executable file (it's code is not viewable on github)
