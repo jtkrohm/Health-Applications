@@ -17,10 +17,9 @@ The Application contains two tabs:
  - **second tab**: 30~120fps, depending on the device
 
 ## Get the app
-[Windows]
-The independent packacked software for this app is found here: 
+[Windows] Download the raw executable file (it's code is not viewable on github)
+The independent packaged software for this app is found here: 
 https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_test.exe
-
 
 ## Prerequisites
 The source code requires mongoDB to be installed on the local machine: 
