@@ -18,8 +18,9 @@ The Application contains two tabs:
 
 ## Get the app
 ```Windows``` Download the raw executable file (it's code is not viewable on github)
-The independent packaged software for this app is found here: 
-https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_test.exe
+The independent packaged software for this app is found [here][rawexecutable1] 
+
+[rawexecutable1]: https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_test.exe
 
 ## Prerequisites
 The source code requires [mongoDB][mongolink] to be installed on the local machine: 
