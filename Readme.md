@@ -17,10 +17,11 @@ The Application contains two tabs:
  - **second tab**: displays a digital form for the collection of an individual's systolic and diastolic blood pressure
 
 ## Get the app
-[Windows] Download the raw executable file (it's code is not viewable on github)
+```Windows``` Download the raw executable file (it's code is not viewable on github)
 The independent packaged software for this app is found here: 
 https://github.com/jtkrohm/Health-Applications/blob/main/aggregated_health_script_test.exe
 
 ## Prerequisites
-The source code requires mongoDB to be installed on the local machine: 
-https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
+The source code requires [mongoDB][mongolink] to be installed on the local machine: 
+
+[mongolink]: https://www.mongodb.com/docs/manual/installation/?msockid=21c90a505ee9627631511e555f8563e4#install-mongodb
