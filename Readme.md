@@ -3,7 +3,9 @@
 
 # Project: BMI and Blood Pressure Data Collection
 
-<img src="app/data/icon.svg" width="128" height="128" alt="bmi_bp_app" align="right" />
+![screenshot](Health-Applications/img/aggregated_bp_tab(1))
+
+![screenshot](Health-Applications/img/aggregated_bp_tab(2))
 
 
 This application provides a graphical user interface, and allows users to manually log their
