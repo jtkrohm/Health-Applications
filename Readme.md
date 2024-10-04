@@ -1,5 +1,4 @@
-**This GitHub repository (<https://github.com/jtkrohm/Health-Applications>) contains source code for all health data analysis projects.
-**
+**This GitHub repository (<https://github.com/jtkrohm/Health-Applications>) contains source code for all health data analysis projects.**
 
 # Project: BMI and Blood Pressure Data Collection
 
